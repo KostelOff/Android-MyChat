@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910284873776",
+    "firebase_url": "https://mychat-3cb2f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mychat-3cb2f",
+    "storage_bucket": "mychat-3cb2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910284873776:android:9f08e4e40a5894d4b64df5",
+        "android_client_info": {
+          "package_name": "ru.kosteloff.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910284873776-oor1du3kf31sfaahe64rmokgncqp9nc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.kosteloff.mychat",
+            "certificate_hash": "cae1d8d1bda94925ca5d953a87e32627f1b71813"
+          }
+        },
+        {
+          "client_id": "910284873776-ebvp4i4dkm5b5mq3jtlokfs2ugdeloff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9ewprJ50PNImN3LyVni0Xn6S86pF9Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910284873776-ebvp4i4dkm5b5mq3jtlokfs2ugdeloff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
