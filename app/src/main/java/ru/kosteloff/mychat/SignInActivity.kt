@@ -17,9 +17,9 @@ import com.google.firebase.ktx.Firebase
 import ru.kosteloff.mychat.databinding.ActivitySignInBinding
 
 class SignInActivity : AppCompatActivity() {
-    lateinit var launcher: ActivityResultLauncher<Intent>
-    lateinit var auth: FirebaseAuth
-    lateinit var binding: ActivitySignInBinding
+    private lateinit var launcher: ActivityResultLauncher<Intent>
+    private lateinit var auth: FirebaseAuth
+    private lateinit var binding: ActivitySignInBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
